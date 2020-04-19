@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="color_divider">#E6E6E6</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+    <color name="color_yellow">#feba01</color>
+
+    <color name="color_red">#D9535F</color>
+    <color name="color_progress_bar_good">#F0AD4E</color>
+    <color name="color_sky">#5BC0DE</color>
+    <color name="color_green">#5CB85C</color>
+</resources>

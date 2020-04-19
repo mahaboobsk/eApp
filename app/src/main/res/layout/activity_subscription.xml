@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="18sp"
+        android:text="@string/subscription_text" />
+        <Button
+            android:id="@+id/subsc1_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:layout_margin="10dp"
+            android:textColor="@color/color_white"
+            android:background="@color/color_yellow"
+            android:text="1 year Subscribtion" />
+    <Button
+        android:id="@+id/subsc2_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:layout_margin="10dp"
+        android:textColor="@color/color_white"
+        android:background="@color/color_yellow"
+        android:text="Monthly Subscribtion" />
+            <Button
+                android:id="@+id/download_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:layout_margin="10dp"
+                android:textColor="@color/color_black"
+                android:background="@color/color_divider"
+                android:text="Current Subscribers" />
+
+
+ <!--
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_divider"
+        android:gravity="center"
+        android:orientation="horizontal">
+        &lt;!&ndash; <ImageView
+             android:id="@+id/home"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:padding="10dp"
+             android:layout_weight="1"
+             android:gravity="center"
+             android:src="@drawable/ic_action_home"
+             />&ndash;&gt;
+        <ImageView
+            android:id="@+id/youtube"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:gravity="center"
+            android:src="@drawable/youtube"
+            />
+        <ImageView
+            android:id="@+id/facebook"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:gravity="center"
+            android:src="@drawable/facebook"
+            />
+        <ImageView
+            android:id="@+id/instagram"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:gravity="center"
+            android:src="@drawable/instagram"
+            />
+        <ImageView
+            android:id="@+id/twitter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:gravity="center"
+            android:src="@drawable/twitter"
+            />
+        <ImageView
+            android:id="@+id/email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:gravity="center"
+            android:src="@drawable/email"
+            />
+        <ImageView
+            android:id="@+id/upload"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:gravity="center"
+            android:src="@drawable/upload"
+            />
+
+    </LinearLayout>-->
+</LinearLayout>

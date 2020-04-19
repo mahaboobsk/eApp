@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">eApplication</string>
+    <string name="details_text">Issue 85 - MARCH 2020 \n ======================== \n In this issue you are going to read and learn:\n\n + Daymnd John:Keep Hustling \n +The silent productivity Killer nobady Talks about \n +Gina Biyanchini : Small but Might \n +How to Launch a Brand with a big Impact \n +Peter Diamondis:Live long and prosper \n +Why you should work on your strength not your weaknesses \n +5 Types of career list you should keep \n +Rob Ward: Locking in success \n\n AND MUCH MORE OF COURSE! \n\n Download this brand new issue now.</string>
+    <string name="subscription_text">Click the SUBSCRIBE Button Now to Download the Latest Issue. Save over 63% on our Annual Subscription + Get 6 Exclusive Subscriber only bonus.</string>
+    <array name="cate">
+    <item>All</item>
+    <item>Special</item>
+    <item>Private</item>
+    <item>Downloads</item>
+</array>
+</resources>
